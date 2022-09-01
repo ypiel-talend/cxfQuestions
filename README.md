@@ -17,6 +17,7 @@ To execute:
 Proxy SOCKS5 authentication
 ---------------------------
 
+- Jira: https://issues.apache.org/jira/projects/CXF/issues/CXF-8759
 - Action: `proxySocksWithAuthent` : https://github.com/ypiel-talend/cxfQuestions/blob/9454bed34bb3136a0f28a9afaf535c95b9167b51/src/main/java/Main.java#L38
 
 This cxf client can't authenticate to SOCKS5 proxy server. It works well
